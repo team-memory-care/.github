@@ -16,13 +16,13 @@
 ***Team***
 > ***PM***
 >
-> ***Gyeongha Gim*** [@duroodu](https://github.com/duroodu, 깃허브)
+> ***Gyeongha Gim*** [@duroodu](https://github.com/duroodu, "깃허브")
 
 > ***Design***
 >
-> Woojeong Go [@friendship-de](https://github.com/friendship-de, 깃허브)
+> Woojeong Go [@friendship-de](https://github.com/friendship-de,"깃허브")
 >
-> Yujin Ban [@yujinyoonban](https://github.com/yujinyoonban, 깃허브)
+> Yujin Ban [@yujinyoonban](https://github.com/yujinyoonban, "깃허브")
 
 
 > ***Android***
@@ -37,7 +37,7 @@
 >
 > ***Donghyun Kim*** [@bricksky](https://github.com/bricksky, "깃허브")
 >
-> ***Seonhwan Kim*** [@SeonHwan-Kim[(https://github.com/SeonHwan-Kim, "깃허브")
+> ***Seonhwan Kim*** [@SeonHwan-Kim](https://github.com/SeonHwan-Kim,"깃허브")
 
 
 ***Contact***
